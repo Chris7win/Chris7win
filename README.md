@@ -2,11 +2,11 @@
 
 # Chriswin J
 
-### Electronics & Communication Engineering Student | Robotics Enthusiast | IoT Developer
+### Electronics & Communication Engineering Student |Embedded Systems & IoT Developer |Web developer
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chriswin-j)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chriswinj)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chriswin7off@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chriswin7)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chris7win)
 
 </div>
 
@@ -68,7 +68,7 @@ Designed for Tamil Nadu farmers to prevent borewell accidents through automated 
 
 Comprehensive home automation platform enabling remote appliance control, energy monitoring, and scheduling through cloud-based infrastructure.
 
-[→ View Project](https://github.com/Chriswin7/Home-Automation-Hub)
+[→ View Project](https://github.com/Chris7win/Home-Automation-Hub)
 
 ---
 
@@ -76,11 +76,11 @@ Comprehensive home automation platform enabling remote appliance control, energy
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chriswin7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chris7win&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chriswin7&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chris7win&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chriswin7&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris7win&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
 
 </div>
 
@@ -121,12 +121,12 @@ I'm actively seeking opportunities to collaborate on:
 **Feel free to reach out for project collaborations, tech discussions, or networking!**
 
 [![Email](https://img.shields.io/badge/chriswin7off@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chriswin7off@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Chriswin_J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chriswin-j)
+[![LinkedIn](https://img.shields.io/badge/Chriswin_J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chriswinj)
 
 ---
 
 *"Innovation happens at the intersection of circuits and code."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chriswin7&label=Profile%20Views&color=00D9FF&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Chris7win&label=Profile%20Views&color=00D9FF&style=flat)
 
 </div>
