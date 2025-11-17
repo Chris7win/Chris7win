@@ -1,148 +1,132 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chriswin7/Chriswin7/main/assets/banner.gif" alt="Coding Banner">
-</p>
-
-<h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">Chriswin J</span></h1>
-<h3 align="center">🚀 Aspiring Engineer | Robotics & Automation | Tech Enthusiast</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chriswin-j" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:chriswin7off@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/Chriswin7" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Exploring+the+Intersection+of+Hardware+%26+Software;IoT+%7C+Automation+%7C+AI+%7C+Full+Stack+Development;Innovation+through+Engineering+and+Code" alt="Typing SVG" />
+
+# Chriswin J
+
+### Electronics & Communication Engineering Student | Robotics Enthusiast | IoT Developer
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chriswin-j)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chriswin7off@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chriswin7)
+
 </div>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-🎓 Pursuing **B.E. in Electronics and Communication Engineering (ECE)**  
-💡 Passionate about **Robotics, IoT, Automation, and Smart Systems**  
-💻 Skilled in combining **hardware control** with **software intelligence**  
-⚙️ Exploring **AI/ML integration** in automation & healthcare systems  
-🌐 Constant learner of **Cloud, Security, and Full-Stack Technologies**
+I'm an aspiring engineer passionate about bridging the gap between **hardware and software**. My work focuses on creating intelligent systems that combine embedded electronics with modern software architectures.
 
----
+```yaml
+current_focus:
+  - IoT-driven automation systems
+  - AI/ML integration with embedded hardware
+  - Cloud platforms (AWS, Firebase, GCP)
+  - Full-stack development with real-time control
 
-## 🔧 What I Do
-
-- 🤖 **Robotics & Automation:** Embedded systems, control circuits, IoT hardware integration  
-- 💻 **Software Development:** Java Full Stack | Python | C++  
-- ☁️ **Cloud & Security:** Learning AWS, Zero Trust Architecture, and Cybersecurity models  
-- 🧠 **AI & Data:** Exploring ML/AI applications for automation and healthcare insights  
+education: B.E. Electronics and Communication Engineering
+interests: [Robotics, IoT, Automation, Smart Systems, Cybersecurity]
+```
 
 ---
 
-## 🏆 Highlights
+## 🛠️ Technical Expertise
 
-- 💼 **IoT Internship @ Neura ABE Semiconductor Design**
-- 🧩 **Workshops Attended:** IoT, PCB Design, Missile Guidance with AI, Antenna Design, 3D Scanning  
-- ⚙️ **Projects:** Smart Borewell Safety System | IoT-based Automation | Robotics Integration  
-- 🚀 **Goals:** Innovate in the space of **Intelligent Automation & Robotics**
+**Hardware & Embedded Systems**
+- Microcontrollers: Arduino, ESP8266/32, NodeMCU, Raspberry Pi
+- Circuit Design & PCB Development
+- Sensor Integration & IoT Protocols
+
+**Software Development**
+- Languages: C++, Python, Java, JavaScript
+- Web: React.js, Node.js, HTML/CSS
+- Databases: MongoDB, MySQL, Firebase
+
+**Tools & Platforms**
+- Cloud: AWS, Google Cloud Platform
+- Version Control: Git, GitHub
+- Development: VSCode, MATLAB, Arduino IDE
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,nodejs,mongodb,arduino,raspberrypi,git,github,vscode,mysql,matlab&perline=8" />
-  </a>
-</p>
+### 🌊 Smart Borewell Safety System
+> IoT-based monitoring and safety solution for agricultural water management
+
+**Tech Stack:** `Arduino` `ESP8266` `IoT Sensors` `Cloud Integration`
+
+Designed for Tamil Nadu farmers to prevent borewell accidents through automated water level monitoring, real-time alerts, and remote safety controls.
+
+[→ View Project](https://github.com/Chriswin7/Smart-Borewell-Safety-System)
 
 ---
 
-## 📊 GitHub Stats
+### ⚙️ Home Automation Hub
+> Cloud-connected smart home control system
+
+**Tech Stack:** `NodeMCU` `Firebase` `Real-time Database` `Mobile App`
+
+Comprehensive home automation platform enabling remote appliance control, energy monitoring, and scheduling through cloud-based infrastructure.
+
+[→ View Project](https://github.com/Chriswin7/Home-Automation-Hub)
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chriswin7&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chriswin7&theme=tokyonight" height="180px"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chriswin7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chriswin7&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chriswin7&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
+
 </div>
+
+---
+
+## 💼 Professional Experience
+
+**IoT Development Intern** | Neura ABE Semiconductor Design  
+- Worked on embedded systems and IoT sensor integration
+- Developed firmware for smart device applications
+- Collaborated on PCB design and testing workflows
+
+**Workshops & Training**
+- IoT System Architecture
+- PCB Design & Fabrication
+- AI in Missile Guidance Systems
+- Antenna Design Principles
+- 3D Scanning Technologies
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm actively seeking opportunities to collaborate on:
+
+- 🤖 Robotics and automation projects
+- 🌐 IoT ecosystem development
+- 💡 AI-powered embedded systems
+- ☁️ Cloud-integrated hardware solutions
+- 🔧 Open-source engineering tools
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriswin7&layout=compact&theme=tokyonight" height="150px"/>
+
+**Feel free to reach out for project collaborations, tech discussions, or networking!**
+
+[![Email](https://img.shields.io/badge/chriswin7off@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chriswin7off@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Chriswin_J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chriswin-j)
+
+---
+
+*"Innovation happens at the intersection of circuits and code."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Chriswin7&label=Profile%20Views&color=00D9FF&style=flat)
+
 </div>
-
----
-
-## 🧠 Current Focus
-
-- 🌱 Building **IoT-driven automation systems**
-- 🧩 Learning **AI model integration with hardware**
-- ☁️ Exploring **cloud platforms (AWS, Firebase, GCP)**
-- ⚡ Experimenting with **data visualization & control dashboards**
-
----
-
-## ✨ Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌊 Smart Borewell Safety System</h3>
-      <p align="center">An IoT-based safety and monitoring system designed for Tamil Nadu farmers to prevent accidents and automate water level management.</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-        <img src="https://img.shields.io/badge/IoT-0078D7?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-      </div>
-      <p align="center">
-        <a href="https://github.com/Chriswin7/Smart-Borewell-Safety-System"><strong>🔗 GitHub Repo</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚙️ Home Automation Hub</h3>
-      <p align="center">A smart control system for appliances using NodeMCU and Google Firebase for cloud-based monitoring and control.</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/NodeMCU-0033A0?style=for-the-badge&logo=arduino&logoColor=white"/>
-        <img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-      </div>
-      <p align="center">
-        <a href="https://github.com/Chriswin7/Home-Automation-Hub"><strong>🔗 GitHub Repo</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🤝 Let's Collaborate On
-
-- 🚀 IoT, Automation, or Robotics projects  
-- 💡 Full-Stack Development (Java / Node / React)  
-- 🧠 AI-integrated Control Systems  
-- ☁️ Cloud + Data-driven engineering solutions  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:chriswin7off@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/chriswin-j"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Chriswin7"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## ⚡ Fun Fact  
-> "I believe in merging circuits and code — where automation meets intelligence. Every innovation starts with a spark ⚡"
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chriswin7&label=Profile%20Views&color=00bfff&style=flat-square" alt="Profile Views" />
-</p>
