@@ -19,36 +19,6 @@
 
 <br/>
 
-## 👨‍💻 About Me
-
-```javascript
-const chriswin = {
-    role: "Pre-Final Year ECE Student",
-    location: "Erode, Tamil Nadu, India",
-    status: "🔍 Actively Seeking Internships",
-    availability: ["Full-time Internships", "Part-time Projects", "Freelance Work"],
-    
-    interests: {
-        core: ["Embedded Systems", "IoT Solutions", "VLSI Design"],
-        software: ["Full-Stack Development", "Cloud Integration", "Real-time Systems"]
-    },
-    
-    currentlyBuilding: [
-        "SPOT-Q: Automotive Analytics Dashboard",
-        "Underground Rover: Mining Safety IoT Robot"
-    ],
-    
-    openTo: [
-        "Embedded Systems Internships",
-        "IoT Development Roles",
-        "VLSI Design Opportunities", 
-        "Full-Stack Web Development",
-        "Hardware-Software Integration Projects"
-    ]
-};
-```
-
-<br/>
 
 ## 🎯 What I Bring to the Table
 
