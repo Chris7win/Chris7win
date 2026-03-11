@@ -48,12 +48,12 @@ Currently at the intersection where embedded systems meet the modern web.
 <td>
 
 **Embedded & IoT Intern**
-[Taaras Systems and Solutions](https://www.taaras.in)
+[Taras Systems and Solutions]([https://www.taaras.in](https://tarassolutions.com/))
 
 </td>
 <td>
 
-`Taaras Embedded and IoT Online Internship Training`
+`Taras Embedded and IoT Online Internship Training`
 
 </td>
 <td>
@@ -77,7 +77,7 @@ Hands-on embedded systems design, IoT architecture, and real-world hardware-soft
 **— Embedded & Hardware —**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
